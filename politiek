@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-        scale=1.0">
+    <title>Politieke website</title>
+    <link rel="icon" type="image/x-icon" href="politiek.jpg">
+    <!-- logo voor de website naam open het in een ander tabblad en kijk na de icon naast de website naam -->
+    <a target="_blank" href="index2.html">Belangrijkste partijen</a>
+    <a target="_blank" href="index3.html">Stemmen</a>
+    <a target="_blank" href="index4.html">Minister president</a>
+    
+  
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <h1>Politieke partijen</h1>
+    <p>
+      De lijst van politieke partijen in Nederland is een historisch overzicht van politieke partijen die in het heden of het verleden actief zijn geweest in de Nederlandse politiek, op zowel nationaal als lokaal niveau.
+    </p>
+    <h2>VVD</h2>
+    <p>
+      De Volkspartij voor Vrijheid en Democratie is een Nederlandse politieke partij met een liberale signatuur. De partij maakt onderdeel uit van kabinet-Rutte IV en levert sinds 14 oktober 2010 Mark Rutte als minister-president.
+    </p>
+    <h3>Ministers</h3>
+    <p> Een minister is een persoon die deelneemt aan de regering van een land en tevens politiek verantwoordelijk is voor een beleidsterrein van dat land.</p>
+
+  <h7>Contact</h7>
+    <pclass="geenborder>
+    <a href = "mailto: 25514@edu.msa.nl">Mail</a>
+    </p>
+  </body>
+</html>
