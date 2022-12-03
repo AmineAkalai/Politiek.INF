@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <a target="_blank" href="index.html">Hoofdpagina</a>
+    <a target="_blank" href="index2.html">Belangrijkste partijen</a>
+    <a target="_blank" href="index3.html">Stemmen</a>
+    <link rel="stylesheet" href="style.css">
+    <title>Minister president</title>
+    <link rel="icon" type="image/x-icon" href="vinkje.png">
+  </head>
+
+  <body>
+    <h1>Minister president</h1>
+    <pclass="geenborder">
+      <img src="minpres.jpg">
+    </p>
+    <h2>Vice Minister president</h2>
+    <pclass="geenborder">
+      <img src="vicepremier.jpg">
+    </p>
+  </body>
+</html>
