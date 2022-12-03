@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="apple.png"> <!-- logo voor de website naam open het in een ander tabblad en kijk na de icon naast de website naam -->
+   <a target="_blank" href="index.html">Hoofdpagina</a>
+    <a target="_blank" href="index2.html">Belangrijkste partijen</a>
+    <a target="_blank" href="index4.html">Minister president</a>
+    <title>Stemmen</title>
+  </head>
+    <body>
+      <h1>Info over de verkiezingen</h1>
+      <pclass="geenborder>
+        <a     href="https://www.rijksoverheid.nl/onderwerpen/verkiezingen">verkiezingen</a>
+   </p>
+      <p>
+        Elke Nederlander van 18 jaar en ouder met kiesrecht mag stemmen en kan zich ook verkiesbaar stellen. Er zijn verschillende verkiezingen. Bijvoorbeeld die voor de Tweede Kamer en de gemeenteraad. 
+      </p>
+   </body>
+
+</html>
