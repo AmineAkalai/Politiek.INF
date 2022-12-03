@@ -1,0 +1,50 @@
+body {background-color: lightgrey;
+      text-align: left;
+      background-image: url("vvd.png");
+     }
+p {color: white;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bolder;
+  width: 500px;
+  padding: 15px 20px;
+  border: 5px solid blueviolet;
+  box-sizing: border-box;
+  margin: 15px 20px;
+  border-radius: 20px;
+  }
+
+.geenborder {
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bolder;
+  width: 0px;
+  padding: 0px;
+  border: 0px solid;
+  margin: 0px;
+  border-radius: 0px;
+}
+h1, h2, h3, h7{
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+tbody {
+  color:white;
+}
+a:hover { 
+  font-size: 35px;
+}
+p a:visited {
+  color:black;
+}
